@@ -101,8 +101,6 @@ hit the url: ```bash http://127.0.0.1:8000 ``` Generated in the **terminal**
 
 I would like to express my sincere gratitude to everyone who contributed to the realization of this project.
 
-* **My Supervisor/Instructor:** Special thanks to **[Teacher's Name]** for their guidance on implementing the MVC architecture and database integration. Their feedback was instrumental in moving this project from a static design to a dynamic application.
-* **Daffodil International University:** For providing the learning environment and resources.
 * **Open Source Community:** For the incredible documentation available for Laravel and Bootstrap.
 
 ---
