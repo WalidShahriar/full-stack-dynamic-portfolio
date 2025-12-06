@@ -1,7 +1,3 @@
-<img width="1904" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/6ebcd08c-1ac8-41b0-bd82-1a07cc27c164" />
-
----
-
 # 👨‍💻 Dynamic Single Page Portfolio | Laravel
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -16,8 +12,7 @@ Unlike static HTML portfolios, this application fetches all content—including 
 
 ## 📸 Screenshots
 
-> *Add a screenshot of your Hero section here*
-> ![Hero Section](./public/photos/screenshot-hero.png)
+<img width="1904" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/6ebcd08c-1ac8-41b0-bd82-1a07cc27c164" />
 
 ---
 
