@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon" href="/images/govt_logo.png" type="image/png">
+    <link rel="icon" href="https://github.com/WalidShahriar/laravel_auth/blob/main/ws.png?raw=true" type="image/png">
 
     <title>@yield('title', 'Default Title')</title>
 

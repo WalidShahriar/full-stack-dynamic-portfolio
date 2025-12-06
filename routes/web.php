@@ -1,7 +1,13 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PortfolioController;
 
+Route::get('/', [PortfolioController::class, 'index']);
+
+Route::post('/contact-submit', [PortfolioController::class, 'store'])->name('contact.store');
+
+/*
 Route::get('/', function () {
     return view('single');
 });
@@ -21,3 +27,4 @@ Route::get('/contact', function () {
 Route::get('/projects', function () {
     return view('pages.projects');
 });
+*/
