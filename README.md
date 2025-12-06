@@ -32,7 +32,7 @@ Unlike static HTML portfolios, this application fetches all content—including 
 
 ## 🛠️ Tech Stack
 
-* **Backend:** Laravel 10/11 (PHP)
+* **Backend:** Laravel 12 (PHP)
 * **Frontend:** Blade Templates, Bootstrap 5, Custom CSS
 * **Database:** MySQL (via XAMPP)
 * **Server:** Apache (via XAMPP)
