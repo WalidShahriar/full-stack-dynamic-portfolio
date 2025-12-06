@@ -10,7 +10,7 @@ Unlike static HTML portfolios, this application fetches all content—including 
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <img width="1904" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/6ebcd08c-1ac8-41b0-bd82-1a07cc27c164" />
 
